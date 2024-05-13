@@ -7,8 +7,9 @@
  -  - Projetos obrigatórios para treinamento de css e html, requisitados pelo professor Jailson.
    
 ## Tecnologias Aprendidas:
-    - HTML
-    - CSS
+    - HTML.
+    
+    - CSS.
     
 ## imagem do projeto
 
