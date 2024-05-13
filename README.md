@@ -4,12 +4,14 @@
    
  - Projeto construído com base em um tutorial do Youtube.
 
- -  - Projetos obrigatórios para treinamento de css e html, requisitados pelo professor Jailson.
+ - Projetos obrigatórios para treinamento de css e html, requisitados pelo professor Jailson.
    
 ## Tecnologias Aprendidas:
-    - HTML.
+ - HTML.
+   
+ - CSS.
+
     
-    - CSS.
     
 ## imagem do projeto
 
