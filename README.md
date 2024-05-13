@@ -4,7 +4,7 @@
    
  - Projeto construído com base em um tutorial do Youtube.
 
- - Projetos obrigatórios para treinamento de css e html, requisitados pelo professor Jailson.
+ - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
    
 ## Veja a página aqui
 
@@ -14,6 +14,11 @@
  - HTML.
    
  - CSS.
+
+## Contatos:
+ - E-mail: tamiressilvabezerra05@gmail.com.
+   
+ - LinkedIn:www.linkedin.com/in/tamires-silva-147765200.
 
     
     
