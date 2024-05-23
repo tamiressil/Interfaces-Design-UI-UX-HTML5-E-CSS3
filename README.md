@@ -4,7 +4,16 @@
    
  - Projeto construído com base em um tutorial do Youtube.
 
- - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
+ - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA.
+
+ ## Link do video:
+
+ [Clique aqui para acessar!!]()
+
+
+  #  Veja a página aqui:
+ [Veja-o aqui!]()
+   
    
    
 ## Tecnologias Aprendidas:
