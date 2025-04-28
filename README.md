@@ -10,12 +10,14 @@
 
  [Clique aqui para acessar!!](https://www.youtube.com/watch?v=CQZxeoQeo5c)
  <video controls src="./videos/att_navbar.mp4" title="atualização_navbar"></video>
+ 
 
 
 
   #  Veja a página aqui:
  [Veja-o aqui!](https://interfaces-design-ui-ux-html-5-e-css-3.vercel.app/)
-   
+   <video controls src="./videos/att_navbar.mp4" title="atualização_navbar"></video>
+
    
    
 ## Tecnologias Aprendidas:
