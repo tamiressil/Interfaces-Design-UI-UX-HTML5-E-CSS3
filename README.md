@@ -11,16 +11,9 @@
  [Clique aqui para acessar!!](https://www.youtube.com/watch?v=CQZxeoQeo5c)
 
 
- [Antiga navbar](https://github.com/user-attachments/assets/5c2e10e8-5efb-4188-9a26-62b4f8715b26)
-
-
- 
-
-
-
   #  Veja a página aqui:
  [Veja-o aqui!](https://interfaces-design-ui-ux-html-5-e-css-3.vercel.app/)
-   <video controls src="./videos/att_navbar.mp4" title="atualização_navbar"></video>
+ 
 
    
    
