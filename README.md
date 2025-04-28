@@ -9,6 +9,8 @@
  ## Link do video:
 
  [Clique aqui para acessar!!](https://www.youtube.com/watch?v=CQZxeoQeo5c)
+ <video controls src="./videos/att_navbar.mp4" title="atualização_navbar"></video>
+
 
 
   #  Veja a página aqui:
